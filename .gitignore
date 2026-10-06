@@ -1,0 +1,25 @@
+# Java / Maven
+**/target/
+**/bin/
+*.class
+
+# Node
+**/node_modules/
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+application-secret.properties
+
+# Uploaded files
+**/uploads/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
